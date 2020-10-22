@@ -33,3 +33,31 @@
 * Zeeple Dome - (1-6 players)
 * Split The Room - (3-8 players)
 
+### Jackbox Party Pack 6
+* Trivia Murder Party 2 (1-8)
+* Dictionarium (3-8)
+* Push The Button (4-10)
+* Joke Boat (3-8)
+* Role Models (3-6)
+
+### Jackbox Party Pack 7
+* Quiplash 3 (3-8)
+* Blather 'Round (2-6)
+* Talking Points (3-8)
+* Champ'd Up (3-8)
+* The Devils and The Details (3-8)
+
+### Other Games
+* Monopoly deal - mdeal,
+* Pummel party
+* 4player chess
+* https://fishbowl-game.com/
+* https://codenames.game/
+* Skribble.io
+* https://netgames.io/games/
+* Among us
+* Cards against humanity
+* https://colonist.io/
+* http://playingcards.io/
+* Phasmophobia
+
