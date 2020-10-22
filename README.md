@@ -48,16 +48,16 @@
 * The Devils and The Details (3-8)
 
 ### Other Games
-* Monopoly deal - mdeal,
-* Pummel party
-* 4player chess
-* https://fishbowl-game.com/
-* https://codenames.game/
-* Skribble.io
-* https://netgames.io/games/
-* Among us
-* Cards against humanity
-* https://colonist.io/
-* http://playingcards.io/
-* Phasmophobia
+* Monopoly Deal - http://playmdeal.com/
+* Pummel Party - https://store.steampowered.com/app/880940/Pummel_Party/
+* Four Player Chess - https://www.chess.com/4-player-chess
+* Fishbowl - https://fishbowl-game.com/
+* Codenames - https://codenames.game/
+* Skribble.io - https://skribbl.io/
+* Online Board Games - https://netgames.io/games/
+* Among Us - https://store.steampowered.com/app/945360/Among_Us/
+* Cards Against Humanity - https://pyx-3.pretendyoure.xyz/zy/
+* Settlers of Catan - https://colonist.io/
+* Card Games - http://playingcards.io/
+* Phasmophobia - https://store.steampowered.com/app/739630/Phasmophobia/
 
