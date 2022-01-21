@@ -60,4 +60,5 @@
 * Settlers of Catan - https://colonist.io/
 * Card Games - http://playingcards.io/
 * Phasmophobia - https://store.steampowered.com/app/739630/Phasmophobia/
+* https://mafia.gg/
 
