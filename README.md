@@ -61,4 +61,5 @@
 * Card Games - http://playingcards.io/
 * Phasmophobia - https://store.steampowered.com/app/739630/Phasmophobia/
 * https://mafia.gg/
+* Liars Dice - https://www.funnode.com/games/liars-dice#
 
